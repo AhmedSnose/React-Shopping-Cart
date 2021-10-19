@@ -1,0 +1,12 @@
+.heading{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+    bottom: -80%;
+    right: 35%;
+    font-size: 50px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    padding: 0;
+    position: absolute;
+    z-index: 999999999999999;
+}
